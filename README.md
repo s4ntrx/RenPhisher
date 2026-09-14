@@ -42,15 +42,3 @@ RenPhisher is developed for educational, awareness, and authorized security test
 The developer is not responsible for any misuse or illegal activities performed using this tool.
 
 
----
-
-# 🖼 Tool Screenshot
-
-You can view the screenshot of the tool here:
-![tool](https://github.com/mrwhite4939/RenPhisher/blob/main/RenPhisher.png)
-
-
----
-
-
-Created by: MrWhite4939
