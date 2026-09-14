@@ -18,7 +18,7 @@ apt install git wget php unzip curl -y
 
 # 🔧 Installation
 ```
-git clone https://github.com/mrwhite4939/RenPhisher
+git clone https://github.com/s4ntrx/RenPhisher
 cd RenPhisher
 chmod +x *
 bash renphisher.sh
@@ -52,7 +52,5 @@ You can view the screenshot of the tool here:
 
 ---
 
-# 👤 Developer
 
 Created by: MrWhite4939
-If you find the project useful, consider giving the repository a ⭐ on GitHub.
