@@ -25,7 +25,7 @@ jobs:
 
           # Configure Git
           git config user.name "s4ntrx"
-          git config user.email "spicespoiler@gmail.com"
+          git config user.email "sntxsec@gmail.com"
 
           # Stage changes
           git add "$TIMESTAMP_FILE"
